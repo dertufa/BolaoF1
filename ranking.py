@@ -90,3 +90,6 @@ def ver_ranking(abc,nome_corrida):
     print(f"{idx}º {jogador_rk['nome']} - {jogador_rk['pontuação']} pts")
 
   up_ranking(lista_rk)
+  #Comando que apagaria a lista de palpites após a corrida para receber os palpites da proxima corrida
+  #with open("lista_palpites.txt", "w", encoding="utf-8") as lis_pp:
+  #  lis_pp.write("")
