@@ -1,9 +1,10 @@
 Grupo:
-Diogo Jose do nascimento silva
-Paulo Rubens de Andrade Rodrigues
-Túlio da Silva Souza
+Diogo: Programação (main.py/ palpite.py)
+Paulo: Programação (palpite.py/ ranking.py)
+Túlio: Programação (palpite.py, revisão e modularização do código)
 
 Projeto: Pneu macio
+
 Descrição: 
 	Sistema em Python para registrar palpites do Top 10 em corridas de Fórmula 1, calcular a pontuação de cada jogador com base nos resultados oficiais e manter o ranking da rodada e o ranking geral atualizados.
 

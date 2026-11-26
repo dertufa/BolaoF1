@@ -78,6 +78,7 @@ def registra_palpite(n,lista_palpites, sigla_corrida, nome_corrida):
         novo_jogador = {"nome": nome_jogador, "palpite": lista_palpites}  
         add_palpite(novo_jogador)  
         print(f"\nPalpite de {nome_jogador} registrado com sucesso!")
+    lista_palpites.clear()
 
 
 
